@@ -1,0 +1,12 @@
+[package]
+name = "zot"
+version = "0.1.0"
+authors = ["Colin Neville <colinjneville@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/colinjneville/zot/"
+description = "Provides Option-like enums for working with ordered collections of zero, one, or two items (`Zot`), or ordered collections of one or two items (`Ot`)"
+
+[dependencies]
+serde = { version = "1.0", optional = true }
