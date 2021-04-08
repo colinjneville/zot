@@ -5,6 +5,8 @@ authors = ["Colin Neville <colinjneville@gmail.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
 readme = "README.md"
+categories = ["data-structures"]
+keywords = ["option"]
 repository = "https://github.com/colinjneville/zot/"
 description = "Provides Option-like enums for working with ordered collections of zero, one, or two items (`Zot`), or ordered collections of one or two items (`Ot`)"
 
